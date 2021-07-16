@@ -1,0 +1,41 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+.travel_maindiv {
+    border: 1px solid #C7C7C7;
+    padding-right: 0px;
+    padding-left: 0px; 
+    float: none;
+}
+.travel_maindiv img{
+    width: 100%;
+}
+.travel_maindiv h5,.travel_maindiv p{
+    margin-left: 20px;
+}
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.movie_head i{
+    float: right;
+}
+.movie_text span{
+    color: #e0e80c;
+}
