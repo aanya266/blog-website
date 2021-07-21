@@ -39,3 +39,25 @@ input
 .movie_text span{
     color: #e0e80c;
 }
+.environment_li {
+margin-top: 13px; 
+}
+.environment_li h4{
+    border-bottom: 1px solid white; 
+    padding: 8px; 
+}
+.booklist {
+    cursor: pointer;
+}
+.booklist hr {
+    margin-bottom: 10px;
+}
+.img_modal {
+    display: inline-block !important;
+}
+.p_modal {
+    margin-top: 10px;
+}
+.header_entrepreneur {
+    line-height: 6;
+}
